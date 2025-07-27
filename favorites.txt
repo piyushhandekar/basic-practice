@@ -1,4 +1,12 @@
+Foods :-
+========
 Chicken
 Mutton
 Dosa
 GulabJamun
+
+Movies :-
+=========
+Lord of the rings
+Sicario
+Hera Pheri
